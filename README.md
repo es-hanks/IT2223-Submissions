@@ -6,4 +6,4 @@ Ethan Hanks' repository for submissions for the IT2223 class.
 - [HoP-1](Chapter-2/HoP-1)
 - [Assignment 1](Chapter-2/Assignment-1)
 
-# [Group Project]
+# Group Project
