@@ -7,13 +7,13 @@ Ethan Hanks's repository for submissions for the IT2223 class.
 - [Assignment](Chapter-2/Assignment-1)
 
 # Chapter 3
-[HoP 3.1](ch3/HoP-3.1)
-[HoP 3.2](ch3/HoP-3.2)
-[HoP 3.4](ch3/HoP-3.4)
-[HoP 3.5](ch3/HoP-3.5)
-[HoP 3.6](ch3/HoP-3.6)
-[HoP 3.8](ch3/HoP-3.8)
-[Assignment Part I](ch3Assignment/advantage)
-[Assignment Part II](ch3Assignment/advantage2)
+- [HoP 3.1](ch3/HoP-3.1)
+- [HoP 3.2](ch3/HoP-3.2)
+- [HoP 3.4](ch3/HoP-3.4)
+- [HoP 3.5](ch3/HoP-3.5)
+- [HoP 3.6](ch3/HoP-3.6)
+- [HoP 3.8](ch3/HoP-3.8)
+- [Assignment Part I](ch3Assignment/advantage)
+- [Assignment Part II](ch3Assignment/advantage2)
 
 # Group Project
