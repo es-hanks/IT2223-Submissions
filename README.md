@@ -3,7 +3,7 @@ Ethan Hanks's repository for submissions for the IT2223 class.
   
 # Chapter 2
 - [HoP 2.10](ch2/HoP-2.10)
-- [HoP 2.13-2.14](ch2/HoP-2.10)
+- [HoP 2.13-2.14](ch2/HoP-2.13-2.14)
 - [Assignment](ch2/ch2Assignment)
 
 # Chapter 3
