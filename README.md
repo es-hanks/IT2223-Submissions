@@ -16,4 +16,8 @@ Ethan Hanks's repository for submissions for the IT2223 class.
 - [Assignment Part I](ch3/ch3Assignment/advantage)
 - [Assignment Part II](ch3/ch3Assignment/advantage2)
 
+# Chapter 4
+- [HoP](ch4/HoP/kayakch4)
+- [Assignment](ch4/Assignment)
+
 # Group Project
