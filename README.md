@@ -20,4 +20,11 @@ Ethan Hanks's repository for submissions for the IT2223 class.
 - [HoP](ch4/HoP/kayakch4)
 - [Assignment](ch4/Assignment)
 
+# Chapter 6
+- [HoP 6.2](ch6/HoP/HoP6.2)
+- [HoP 6.3](ch6/HoP/HoP6.3)
+- [HoP 6.4](ch6/HoP/HoP6.4)
+- [Assignment Part I](ch6/Assignment/Assignment1)
+- [Assignment Part II](ch6/Assignment/Assignment2)
+
 # Group Project
