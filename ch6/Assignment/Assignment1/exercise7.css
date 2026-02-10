@@ -1,0 +1,4 @@
+a:link { color: lightblue; }
+a:visited { color: pink; }
+a:hover { color: darkslateblue; 
+          text-decoration: none; }
