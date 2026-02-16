@@ -27,4 +27,9 @@ Ethan Hanks's repository for submissions for the IT2223 class.
 - [Assignment Part I](ch6/Assignment/Assignment1)
 - [Assignment Part II](ch6/Assignment/Assignment2)
 
+# Chapter 7
+- [HoP 7.4](ch7/HoP7.4)
+- [HoP 7.5](ch7/HoP7.5)
+- [HoP 7.7](ch7/HoP7.7)
+
 # Group Project
