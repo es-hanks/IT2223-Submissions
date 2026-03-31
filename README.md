@@ -37,4 +37,12 @@ Ethan Hanks's repository for submissions for the IT2223 class.
 - [HoP 8.3](ch8/Ch8HOP8-3)
 - [HoP 8.4](ch8/Ch8HOP8-4)
 
+# Chapter 9
+- [HoP 9.2](ch9/Ch9HOP9-2)
+- [HoP 9.4](ch9/Ch9HOP9-4)
+- [HoP 9.5](ch9/Ch9HOP9-5)
+- [HoP 9.6](ch9/Ch9HOP9-6)
+- [Assignment Part I](ch9/Assignment1)
+- [Assignment Part II](ch9/Assignment2)
+
 # Group Project
